@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(218,216,214);
+}
+
+#container{
+    position: relative;
+    top: 20vh;
+    left: 80vh;
+    max-width: 330px;
+    text-align: center;
+    background-color: white;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+#title{
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+.form{
+    background-color: white;
+    padding-bottom: 10px;
+}
+
+.label{
+    text-align: left;
+    padding-left: 20px;
+    background-color: white;
+}
+
+input{
+    width: 300px;
+    height: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.log{
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+#login{
+    background-color: white;
+    text-decoration: none;
+}
+
+#sub{
+    width: 150px;
+    padding: 5px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
